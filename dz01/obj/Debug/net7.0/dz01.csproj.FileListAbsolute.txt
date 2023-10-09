@@ -1,0 +1,14 @@
+/Users/artur/Documents/GBLearn/ZnakomstvaSProgLang/dz01/bin/Debug/net7.0/dz01
+/Users/artur/Documents/GBLearn/ZnakomstvaSProgLang/dz01/bin/Debug/net7.0/dz01.deps.json
+/Users/artur/Documents/GBLearn/ZnakomstvaSProgLang/dz01/bin/Debug/net7.0/dz01.runtimeconfig.json
+/Users/artur/Documents/GBLearn/ZnakomstvaSProgLang/dz01/bin/Debug/net7.0/dz01.dll
+/Users/artur/Documents/GBLearn/ZnakomstvaSProgLang/dz01/bin/Debug/net7.0/dz01.pdb
+/Users/artur/Documents/GBLearn/ZnakomstvaSProgLang/dz01/obj/Debug/net7.0/dz01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artur/Documents/GBLearn/ZnakomstvaSProgLang/dz01/obj/Debug/net7.0/dz01.AssemblyInfoInputs.cache
+/Users/artur/Documents/GBLearn/ZnakomstvaSProgLang/dz01/obj/Debug/net7.0/dz01.AssemblyInfo.cs
+/Users/artur/Documents/GBLearn/ZnakomstvaSProgLang/dz01/obj/Debug/net7.0/dz01.csproj.CoreCompileInputs.cache
+/Users/artur/Documents/GBLearn/ZnakomstvaSProgLang/dz01/obj/Debug/net7.0/dz01.dll
+/Users/artur/Documents/GBLearn/ZnakomstvaSProgLang/dz01/obj/Debug/net7.0/refint/dz01.dll
+/Users/artur/Documents/GBLearn/ZnakomstvaSProgLang/dz01/obj/Debug/net7.0/dz01.pdb
+/Users/artur/Documents/GBLearn/ZnakomstvaSProgLang/dz01/obj/Debug/net7.0/dz01.genruntimeconfig.cache
+/Users/artur/Documents/GBLearn/ZnakomstvaSProgLang/dz01/obj/Debug/net7.0/ref/dz01.dll
